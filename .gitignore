@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.duckdb
+.ipynb_checkpoints/
+endurance_pipeline.duckdb
+.DS_Store
+__pycache__/
+venv/
