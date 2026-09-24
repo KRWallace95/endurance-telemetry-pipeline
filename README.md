@@ -56,7 +56,7 @@ However, if you wish to run 01_data_ingestion_and_cleaning.ipynb to fetch and pr
 Create your .env file from the example template:
 
 ```Bash
-cp .env.example .env
+cp .env.example
 ```
 
 Open .env and enter your Garmin Connect credentials:
