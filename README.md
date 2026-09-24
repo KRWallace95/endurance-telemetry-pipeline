@@ -1,7 +1,7 @@
 # Garmin Telemetry: Periodization & Progression Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://triathlon-telemetry-pipeline.streamlit.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/your-username/triathlon-telemetry-pipeline)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://endurance-telemetry-pipeline-2qfze7vz7fffpr3dmqzv5h.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/KRWallace95/triathlon-telemetry-pipeline)
 
 An end-to-end telemetry analytics pipeline and interactive Streamlit application exploring multi-year triathlon training data. This project analyzes volume periodization, discipline specific gravity, session distribution, and long-term progressive overload across cycling, running, and swimming.
 
