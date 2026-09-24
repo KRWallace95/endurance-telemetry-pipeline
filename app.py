@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🚴 Garmin Telemetry: Periodization & Progression")
+st.title("Garmin Telemetry: Periodization & Progression")
 st.markdown("""
 *An interactive exploration of multi-year triathlon training data, focusing on volume periodization, discipline balance, and session intensity progression.*
 """)

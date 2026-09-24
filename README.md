@@ -1,10 +1,10 @@
-# 🚴 Garmin Telemetry: Periodization & Progression Dashboard
+# Garmin Telemetry: Periodization & Progression Dashboard
 
 An end-to-end telemetry analytics pipeline and interactive Streamlit application exploring multi-year triathlon training data. This project analyzes volume periodization, discipline specific gravity, session distribution, and long-term progressive overload across cycling, running, and swimming[cite: 1].
 
 ---
 
-## 📸 Dashboard Overview
+## Dashboard Overview
 
 The application is structured into a narrative 3-chapter analytical flow[cite: 1]:
 
@@ -20,7 +20,7 @@ The application is structured into a narrative 3-chapter analytical flow[cite: 1
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 * **Data Processing & Transformations:** Python, Pandas, NumPy[cite: 1]
 * **Data Visualization:** Plotly Express (`statsmodels` for LOWESS trendlines)[cite: 1]
@@ -29,7 +29,7 @@ The application is structured into a narrative 3-chapter analytical flow[cite: 1
 
 ---
 
-## 🚀 Quickstart & Local Setup
+## Quickstart & Local Setup
 
 ### 1. Clone Repository & Setup Environment
 ```bash
