@@ -6,3 +6,4 @@ endurance_pipeline.duckdb
 .DS_Store
 __pycache__/
 venv/
+.env
